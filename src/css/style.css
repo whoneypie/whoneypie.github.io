@@ -1,0 +1,58 @@
+body {
+    color: #333;
+    font-family: Tahoma, sans-serif;
+}
+.row h1 {
+    font-size: 24px;
+}
+.header {
+    margin-top: 120px;
+    line-height: 1.6;
+}
+.header strong {
+    text-transform: uppercase;
+    display: block;
+}
+.video {
+    margin-top: 90px;
+}
+.form {
+    border: 5px solid #472cc3;
+    height: 314px;
+    margin-top: 90px;
+}
+.email {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.form-input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section-header {
+    margin-top: 150px;
+    font-size: 24px;
+}
+.adventages p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: 900;
+}
+.adventages {
+    margin-top: 90px;
+}
+.btn-adv {
+    margin: 50px 0px 100px 0px;
+}
+.header-our-clients {
+    font-size: 24px;
+    margin-bottom: 75px;
+}
+.our-clients-section {
+    margin-bottom: 30px;
+}
+.four {
+    margin-bottom: 100px;
+}
